@@ -1,0 +1,4 @@
+User-agent: Yandex
+User-agent: *
+Sitemap:https://aristocrat-granit.com.ua/sitemap.xml
+
